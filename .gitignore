@@ -55,11 +55,6 @@ model/samples/
 # Datos grandes (no versionar imágenes/PDFs ni OCR procesado)
 data/ocr/
 data/processed/
-data/raw/*.jpg
-data/raw/*.jpeg
-data/raw/*.png
-data/raw/*.pdf
-data/raw/*_p*.png
 
 # Cache y temporales
 .cache/
