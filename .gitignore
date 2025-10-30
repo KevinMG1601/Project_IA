@@ -40,3 +40,9 @@ venv.bak/
 .conda
 
 logs/
+
+model/donut_invoice/
+model/layoutlmv3_invoice/
+model/line_classifier/
+model/reports/*.pdf
+model/samples/
