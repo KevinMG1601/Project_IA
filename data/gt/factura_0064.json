@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0064",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-09-08",
+    "nit": "900675169-7",
+    "razon_social": "COMBURED S.A.S",
+    "subtotal": 435147,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 435147
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

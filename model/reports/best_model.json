@@ -1,0 +1,14 @@
+{
+  "best_model": "LayoutLMv3",
+  "metrics": {
+    "name": "LayoutLMv3",
+    "em_macro": 0.14285714285714285,
+    "accounting_pct": 0.0,
+    "latency_s": 0.0,
+    "size_mb": 450,
+    "deploy_ease": 2,
+    "lat_z": -0.9699396886474567,
+    "size_z": 0.8429272304235246,
+    "score": 0.09841553153667892
+  }
+}

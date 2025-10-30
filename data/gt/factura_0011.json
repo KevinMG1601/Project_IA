@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0011",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-10-15",
+    "nit": "29740243-3",
+    "razon_social": "Engrase y mecanica la zarca",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 135000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

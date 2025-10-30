@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0076",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-10-14",
+    "nit": "901309960-2",
+    "razon_social": "CEMLOG S.A.S",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 42000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

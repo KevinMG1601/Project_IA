@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0052",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-10-02",
+    "nit": "94294752-3",
+    "razon_social": "Walter Lopez",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 60000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

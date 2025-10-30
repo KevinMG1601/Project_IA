@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0021",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-10-06",
+    "nit": "1112148033-7",
+    "razon_social": "HOTEL BIZERTA",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 30000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0051",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-09-30",
+    "nit": "1115079400-1",
+    "razon_social": "sandra lorena arias gallego",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 80000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

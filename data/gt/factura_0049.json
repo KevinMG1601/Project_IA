@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0049",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-09-10",
+    "nit": "1098724086-8",
+    "razon_social": "ROJAS SANJUAN TATIANA",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 35000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

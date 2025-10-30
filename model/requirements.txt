@@ -1,0 +1,12 @@
+# Requisitos mínimos para inferencia
+numpy
+pillow
+opencv-python-headless
+pytesseract
+pymupdf
+# Opcionales para mejores resultados de OCR y modelos HF
+# paddlepaddle==2.6.1
+# paddleocr==2.7.3
+# torch
+# transformers
+# scikit-learn

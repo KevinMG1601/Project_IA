@@ -1,0 +1,8 @@
+{
+  "donut_trained": true,
+  "layoutlmv3_trained": true,
+  "line_classifier_trained": false,
+  "donut_train_s": 8.222777605056763,
+  "layoutlmv3_train_s": 1.251788854598999,
+  "paddle_rules_train_s": 0.005631446838378906
+}

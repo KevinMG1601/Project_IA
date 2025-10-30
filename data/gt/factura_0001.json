@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0001",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2015-10-13",
+    "nit": "29284276-1",
+    "razon_social": "PARQUEADERO BIZERTA",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 7000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

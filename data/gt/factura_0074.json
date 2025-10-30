@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0074",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-09-11",
+    "nit": "891304273-2",
+    "razon_social": "Cedesca",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 270828
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

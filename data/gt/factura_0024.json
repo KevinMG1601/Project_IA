@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0024",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-10-16",
+    "nit": "900491889-0",
+    "razon_social": "MASSER S.A.S",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 843081
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

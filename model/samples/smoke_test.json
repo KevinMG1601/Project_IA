@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "input": "c:\\Users\\kevin\\Github\\Project_IA\\data\\raw\\factura_0101_p01.png",
+      "campos": {
+        "fecha": null,
+        "nit": null,
+        "razon_social": "T COMERCIO TECNOLOGICO L.A.M S.A.S - PRINCIPAL , NIT: 901.504.669-9 RÉGIMEN IMPUESTO SOBRE LAS VENTAS - IVA 00TECNDLUG/CU LAN AV 5N 23D 123 LC 22 - CALI - VALLE DEL CAUCA No somos Autorretenedores - No somos Grandes Contribuyentes Página 1 de 1 Cliente ASOCIADOS ANGO S.A.S. - --——— Dirección CALLE 56 4 14 - 30 N* CT 38506 País COLOMBIA Zona Fecha 24/09/2025 Vendedor PEÑA CARRERO FRANYI JOSELIN — Email carbonesyparrila1 Qgmail.com — |Pago Contado NO GARANTIZAMOS LA SATISFACCION DEL PRODUCTO, NO ACEPTAMOS DEVOLUCIONES SIN JUSTA CAUSA, POR NINGUN MOTIVO CÓDIGO DESCRIPCIÓN UND Vr UNITARIO QCANTIDAD %DSC %IVA %RTF VALOR 671 Despachoa ASOCIADOS ANGO S.A.S. Vr. BASE %IVA — %IC Vr. IMPTO | SUBTOTAL 373,949.67 Ciudad CALI Departamento VALLE DEL CAUCA -Descuento 0.00 -ReteFuente 0.00 -ICA Retenido 0.00 FACTURA IMPRESA POR COMPUTADOR (Art. 617 E.T y Decreto 1165/96 Art. 13) Empresa Aceptada y Recibido Contabilidad Pymes+, Softpymes SAS NIT 830.506.365-7 Cali. www.softbymes.com.co",
+        "subtotal": null,
+        "iva_porcentaje": null,
+        "iva_valor": null,
+        "total": null
+      },
+      "validaciones": {
+        "nit_dv_ok": false,
+        "total_check": false,
+        "iva_reconstruido": false,
+        "fuente_iva": "explicita"
+      },
+      "status": "warnings"
+    }
+  ],
+  "warnings": [
+    "TOTAL no cuadra para factura_0101_p01.png"
+  ],
+  "elapsed_s": 2.0256378650665283
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0026",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-10-07",
+    "nit": "835000770-2",
+    "razon_social": "BGP CONTAINER & LOGISTICS S.A",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 42000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

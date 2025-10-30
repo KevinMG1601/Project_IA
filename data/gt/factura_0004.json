@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0004",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-10-13",
+    "nit": "1115079400-1",
+    "razon_social": "VULCANIZADORA EL RETORNO S.A.S",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 35000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

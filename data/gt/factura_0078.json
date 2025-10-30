@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0078",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-09-15",
+    "nit": "900132157-9",
+    "razon_social": "CONALTA DE OCCIDENTE S.A.S",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 236636
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0060",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-09-12",
+    "nit": "901186632-1",
+    "razon_social": "SARANTO S.A.S",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 466495
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

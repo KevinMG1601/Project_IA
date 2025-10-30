@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0101",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "pdf"
+  },
+  "campos": {
+    "fecha": "2025-09-24",
+    "nit": "901504669-9",
+    "razon_social": "Comercio tecnologico L.A.M S.A.S",
+    "subtotal": 373949.67,
+    "iva_porcentaje": 19,
+    "iva_valor": 71050.31,
+    "total": 445000
+  },
+  "inferencias": {
+    "iva_reconstruido": true,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

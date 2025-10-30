@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0016",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-10-03",
+    "nit": "1114388752-0",
+    "razon_social": "Surti servicio los Pinos S.A.S",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 10000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0042",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-09-10",
+    "nit": "901489697-0",
+    "razon_social": "ESTACION DE PEAJE CERRITO",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 60900
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

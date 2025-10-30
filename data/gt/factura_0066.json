@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0066",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-09-15",
+    "nit": "901621257-9",
+    "razon_social": "UNION VIAL CAMINO DEL PACIFICO S.A.S",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 46700
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

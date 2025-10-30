@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0103",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "pdf"
+  },
+  "campos": {
+    "fecha": "2025-09-26",
+    "nit": "1144181625",
+    "razon_social": "TROCHEZ GUTIERREZ JUAN DAVID",
+    "subtotal": 85000,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 85000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}

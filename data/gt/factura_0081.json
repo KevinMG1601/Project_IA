@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "doc_id": "factura_0081",
+    "paginas": 1,
+    "moneda": "COP",
+    "fuente": "foto_celular"
+  },
+  "campos": {
+    "fecha": "2025-09-15",
+    "nit": "1118302832-7",
+    "razon_social": "GELVEZ RODALLEGA ISAMAR",
+    "subtotal": null,
+    "iva_porcentaje": null,
+    "iva_valor": null,
+    "total": 40000
+  },
+  "inferencias": {
+    "iva_reconstruido": false,
+    "fuente_iva": "no_disponible"
+  },
+  "observaciones": ""
+}
