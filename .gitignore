@@ -46,3 +46,5 @@ model/layoutlmv3_invoice/
 model/line_classifier/
 model/reports/*.pdf
 model/samples/
+data/ocr/
+data/processed/
