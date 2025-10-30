@@ -41,20 +41,24 @@ venv.bak/
 
 logs/
 
-# Modelos entrenados y artefactos (archivos grandes)
+# Modelos entrenados y artefactos (archivos grandes) - EXCLUIR TODO model/ excepto requirements.txt
 model/donut_invoice/
 model/layoutlmv3_invoice/
 model/line_classifier/
-model/reports/*.pdf
+model/reports/
 model/samples/
+model/infer.py
+# Pero PERMITIR: model/requirements.txt
+
 *.safetensors
 *.bin
 *.pt
 *.pth
 
-# Datos grandes (no versionar imágenes/PDFs ni OCR procesado)
+# Datos: SOLO subir data/raw/ y data/gt/, excluir el resto
 data/ocr/
 data/processed/
+# PERMITIR: data/raw/ y data/gt/ (no se mencionan aquí, así que se trackean)
 
 # Cache y temporales
 .cache/
