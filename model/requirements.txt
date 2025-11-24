@@ -4,6 +4,10 @@ pillow
 opencv-python-headless
 pytesseract
 pymupdf
+# API REST
+fastapi
+uvicorn[standard]
+python-multipart
 # Opcionales para mejores resultados de OCR y modelos HF
 # paddlepaddle==2.6.1
 # paddleocr==2.7.3
